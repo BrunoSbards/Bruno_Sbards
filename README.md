@@ -7,7 +7,7 @@ Bem Vindo! Meu nome é Bruno, fique a vontade;<br>Welcome! My name is Bruno, fee
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrunoSbards&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoSbards&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSbardsi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSbards&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
